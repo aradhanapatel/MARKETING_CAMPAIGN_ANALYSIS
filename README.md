@@ -12,3 +12,7 @@ ANS(:- MEN with the age group 18-24 has the most clicks - 22096802.
 
 QUES_4):- Analyze trends based on quarterly performance.
 ANS(:- ![Screenshot 2025-02-20 160526](https://github.com/user-attachments/assets/f6aae235-956a-4191-84e8-73caec539ab2)
+
+
+DASHBOARD--
+   ![Screenshot 2025-02-20 182742](https://github.com/user-attachments/assets/eb3339ea-caca-4bc4-b839-93a5734125cb)
