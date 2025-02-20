@@ -1,0 +1,12 @@
+CREATE DATABASE MC;
+
+USE MC;
+SELECT * FROM MC_DATA;
+
+
+
+
+
+
+
+
